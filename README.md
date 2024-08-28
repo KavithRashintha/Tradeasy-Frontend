@@ -5,6 +5,10 @@ I’m thrilled to announce the successful completion of our second-year software
 **Purpose and Impact:**
 Tradeasy aims to provide an intuitive and user-friendly platform that seamlessly integrates suppliers and customers, streamlining operations, enhancing accuracy, and boosting productivity. Whether you're managing sales orders or inventory, Tradeasy offers a centralized solution to ensure smooth and efficient management. 🏢 ⌛
 
+**This repository is the repository of the fron-end of the system. Repository of the back end of the system is at the below,**
+
+https://github.com/KavithRashintha/Tradeasy-Backend.git
+
 **🎯 Key Features:**
 - **Sales Order Management:** Efficient handling of sales orders.
 - **Inventory Order Management:** Real-time tracking and management of inventory.
